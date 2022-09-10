@@ -14,4 +14,4 @@ Interesting facts about TB:
 
 I've been working on TB programs and research since 2014. TB is a curable disease that 1.5 million people still die of each year! Tons of interesting facts about the global burden of TB can be found here:
 
--https://www.who.int/publications/i/item/9789240037021)](https://www.who.int/publications/i/item/9789240037021
+https://www.who.int/publications/i/item/9789240037021)](https://www.who.int/publications/i/item/9789240037021
